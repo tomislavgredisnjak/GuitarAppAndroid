@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C43434</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#C43434</color>
+    <color name="border">#3F51B5</color>
+    <color name="colorBackground">#D6D6D6</color>
+    <color name="color">#3F51B5</color>
+    <color name="button">#FFFFFF</color>
+
+    <color name="colorPrimaryNight">#000000</color>
+    <color name="colorPrimaryDarkNight">#3F51B5</color>
+    <color name="colorAccentNight">#000000</color>
+    <color name="borderNight">#D6D6D6</color>
+    <color name="colorBackgroundNight">#080B1C</color>
+    <color name="colorNight">#FFFFFF</color>
+    <color name="buttonNight">#3F51B5</color>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guitarType">"Gitarrentyp: "</string>
+    <string name="numberOfStrings">"Anzahl der Zeichenfolgen: "</string>
+    <string name="numberOfFrets">Anzahl der Bünde:</string>
+    <string name="price">" Preis:"</string>
+    <string name="kuna">" Kunas"</string>
+    <string name="electric">" elektrisch"</string>
+    <string name="acoustic">" akustisch"</string>
+    <string name="classical">" klassisch"</string>
+    <string name="search">Suche Gitarre bei Google</string>
+    <string name="battery">"Batterie schwach."</string>
+    <string name="channelDesc">Dies ist ein Kanal für Gitarren</string>
+    <string name="widget">" Auschecken"</string>
+    <string name="share">"Möchtest du wirklich teilen "</string>
+    <string name="da">Ja</string>
+    <string name="ne">Nein</string>
+    <string name="samo">Nur</string>
+    <string name="shared">" Gitarrensplit"</string>
+    <string name="shareRejected">Gitarrenteilung abgelehnt</string>
+</resources>

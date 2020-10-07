@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guitarType">Tip gitare:</string>
+    <string name="numberOfStrings">Broj žica:</string>
+    <string name="numberOfFrets">Broj pragova:</string>
+    <string name="price">Cijena:</string>
+    <string name="kuna">kuna</string>
+    <string name="electric">električna</string>
+    <string name="acoustic">akustična</string>
+    <string name="classical">klasična</string>
+    <string name="search">Pretraži gitaru na Googlu</string>
+    <string name="battery">Slaba baterija.</string>
+    <string name="channelDesc">Ovo je kanal za gitare</string>
+    <string name="widget">Provjeri</string>
+    <string name="share">"Želiš li zbilja podjeliti "</string>
+    <string name="da">Da</string>
+    <string name="ne">Ne</string>
+    <string name="samo">Samo</string>
+    <string name="shared">Gitara podjeljena</string>
+    <string name="shareRejected">Odbačeno dijelenje gitare</string>
+</resources>

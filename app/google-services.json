@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718630729256",
+    "firebase_url": "https://fragmentigredisnjak.firebaseio.com",
+    "project_id": "fragmentigredisnjak",
+    "storage_bucket": "fragmentigredisnjak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718630729256:android:67e3569cfbf4d9f308a71d",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.MVPgredisnjak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718630729256-s1g87jndae6e3qdrlf11ebf8oe587n33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-XcV4l14w1sYdssmBwBMwL_Lvhnto1gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718630729256-s1g87jndae6e3qdrlf11ebf8oe587n33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

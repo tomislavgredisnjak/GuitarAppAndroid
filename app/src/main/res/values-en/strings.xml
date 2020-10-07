@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guitarType">Guitar type:</string>
+    <string name="numberOfStrings">Number of strings:</string>
+    <string name="numberOfFrets">Number of frets:</string>
+    <string name="price">Price:</string>
+    <string name="kuna">kunas</string>
+    <string name="electric">electric</string>
+    <string name="acoustic">acoustic</string>
+    <string name="classical">classical</string>
+    <string name="search">Search guitar on Google</string>
+    <string name="battery">Battery low.</string>
+    <string name="channelDesc">This is channel for guitars</string>
+    <string name="widget">Check out</string>
+    <string name="share">"Do you really wanna share "</string>
+    <string name="da">Yes</string>
+    <string name="ne">No</string>
+    <string name="samo">Just</string>
+    <string name="shared">Guitar shared</string>
+    <string name="shareRejected">Guitar sharing rejected</string>
+</resources>

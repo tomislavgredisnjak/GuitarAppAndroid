@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">MVPGredisnjak</string>
+    <string name="guitarType">Tip gitare:</string>
+    <string name="numberOfStrings">Broj žica:</string>
+    <string name="numberOfFrets">Broj pragova:</string>
+    <string name="price">Cijena:</string>
+    <string name="kuna">kuna</string>
+    <string name="google" translatable="false">https://www.google.com/search?q=</string>
+    <string name="electric">električna</string>
+    <string name="acoustic">akustična</string>
+    <string name="classical">klasična</string>
+    <string name="search">Pretraži gitaru na Googlu</string>
+    <string name="battery">Slaba baterija.</string>
+    <string name="nightMode" translatable="false">nightMode</string>
+    <string name="isNightMode" translatable="false">isNightMode</string>
+    <string name="drawableUrl" translatable="false">android.resource://hr.tvz.android.MVPgredisnjak/drawable/</string>
+    <string name="title_activity_drawer" translatable="false">Drawer</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">MVP Gredišnjak</string>
+    <string name="nav_header_subtitle" translatable="false">tgredisnj@tvz.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="channelDesc">Ovo je kanal za gitare</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="widget">Provjeri</string>
+    <string name="share">Želiš li zbilja podjeliti </string>
+    <string name="home_second" translatable="false">Home Second</string>
+    <string name="da">Da</string>
+    <string name="ne">Ne</string>
+    <string name="samo">Samo </string>
+    <string name="shared">Gitara podjeljena</string>
+    <string name="shareRejected">Odbačeno dijelenje gitare</string>
+
+
+</resources>

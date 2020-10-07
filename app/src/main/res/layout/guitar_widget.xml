@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/guitarWidgetId"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    >
+
+
+    <TextView
+        android:id="@+id/textWidget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"></TextView>
+    <ImageView
+        android:id="@+id/guitarImageWidget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textWidget">
+    </ImageView>
+    <Button
+        android:id="@+id/buttonGuitar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/widget"
+        android:layout_below="@id/guitarImageWidget"
+
+         />
+
+
+
+</RelativeLayout>
